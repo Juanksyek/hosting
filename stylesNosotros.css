@@ -1,0 +1,350 @@
+@font-face {
+    font-family: Poppins-Medium;
+    src: url(Document\ fonts/Poppins-Thin.ttf);
+}
+
+@font-face {
+    font-family: Poppins-Regular;
+    src: url(Document\ fonts/Poppins-Regular.ttf);
+}
+
+h1 {
+    font-family: 'Gibson', sans-serif;
+}
+
+h2 {
+    font-family: 'Gibson', sans-serif;
+}
+
+h3 {
+    font-family: 'Poppins-Regular';
+}
+
+h4 {
+    font-family: 'Poppins-Medium';
+    z-index: 1;
+}
+
+.bg1 {
+    background-image: url(Links/pexels-julia-m-cameron-4144288.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    clip-path: inset(10% 0% 10% 20%);
+    position: relative;
+    width: 100%;
+    height: 400px;
+    top: 50px;
+}
+
+.bg2 {
+    background-image: url(Links/pexels-cottonbro-4009036.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    clip-path: inset(15% 0% 15% 35%);
+    position: relative;
+    width: 100%;
+    height: 400px;
+    top: 170px;
+}
+
+.mt-lg-5 {
+    margin-top: 11% !important;
+}
+
+.mt-lg-6 {
+    margin-top: 5% !important;
+}
+
+.letter-style1 {
+    font-size: 1rem;
+    color: #fff;
+    letter-spacing: 10px;
+    padding-left: 30%;
+}
+
+.letter-style2 {
+    font-size: 1rem;
+    font-weight: 900;
+    color: #1350d8;
+    padding-left: 30%;
+}
+
+.letter-style3 {
+    font-size: 15rem;
+    font-weight: 700;
+    color: #468feb;
+}
+
+.letter-style4 {
+    font-size: 15rem;
+    font-weight: 700;
+    color: #1350d8;
+}
+
+.letter-style5 {
+    font-size: 7rem;
+    color: #00409a;
+    text-align: center;
+}
+
+.letter-style6 {
+    font-size: 5rem;
+    color: #468feb;
+    text-align: center;
+}
+
+.letter-style7 {
+    text-align: center;
+    color: #fff;
+    padding-left: 23%;
+    padding-right: 23%;
+}
+
+/* sobre nosotros */
+#color-conect {
+    background-color: #77c1fe;
+    padding-bottom: 5%;
+}
+
+#color-nosotros {
+    background-color: #fff;
+    padding-bottom: 5%;
+}
+
+.letter-style9 {
+    color: #1350d8;
+    font-size: 4rem;
+    letter-spacing: 7px;
+}
+
+.letter-style10 {
+    color: #468feb;
+    font-size: 0.7rem;
+    font-weight: 900;
+}
+
+.letter-style11 {
+    text-align: justify;
+}
+
+.letter-style12 {
+    color: #1350d8;
+    font-size: 3rem;
+    font-weight: 600;
+}
+
+.letter-style13 {
+    color: #1350d8;
+    font-size: 1.25rem;
+}
+
+.letter-style14 {
+    color: #fff;
+    font-size: 1rem;
+    font-weight: 300;
+    letter-spacing: 5px;
+}
+
+.bg3 {
+    background-image: url(Links/pexels-andrea-piacquadio-3800578.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    clip-path: inset(15% 0% 0% 15%);
+    position: relative;
+    width: 300px;
+    height: 500px;
+    right: 50px;
+    z-index: 1;
+}
+
+/* graficas */
+#color-graphic {
+    background-color: #468feb;
+    /* position: absolute; */
+    width: 72%;
+    height: 170px;
+    top: 10px;
+}
+
+.progress {
+    height: 10px;
+    /* modificar la altura a 10px */
+    margin-bottom: 20px;
+    overflow: hidden;
+    background-color: #f5f5f5;
+    border-radius: 4px;
+    width: 75%;
+}
+
+.progress-bar {
+    height: 100%;
+    transition: width 0.5s ease-in-out;
+    width: 10%;
+    /* ajustar la anchura a la mitad */
+}
+
+
+/* menu */
+.navar {
+    padding-bottom: 4.5rem;
+}
+
+.nav-item {
+    padding: 10px 40px;
+}
+
+.nav-link {
+    font-size: 1rem;
+    font-family: 'Poppins-Regular';
+    outline: 2px solid #468feb;
+    outline-offset: -6px;
+    width: max-content;
+}
+
+.nav-link:hover {
+    transition: 1s;
+    outline: 2px solid #468feb;
+    outline-offset: 0;
+}
+
+.nav-download {
+    padding: 15px 150px;
+}
+
+.nav-link-pdf {
+    font-size: 1rem;
+    font-family: 'Poppins-Regular';
+    text-decoration: none;
+    width: max-content;
+}
+
+.downloadImage {
+    position: absolute;
+    color: #468feb;
+    width: 25px;
+}
+
+.fixed-bottom {
+    box-shadow: 0px 0px 10px 0px #000;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+}
+
+.logo-bottom {
+    position: relative;
+    left: 40px;
+    padding-right: 10px;
+}
+
+.neon-box1{
+    width: 700px;
+    height: 100px;
+    position: absolute;
+    left: 56%;
+    top: 120px;
+}
+
+.neon-box2{
+    width: 200px;
+    height: 600px;
+    position: absolute;
+    left: 56%;
+    top: 120px;
+}
+
+.neon-box3{
+    width: 400px;
+    height: 100px;
+    position: absolute;
+    left: 56%;
+    top: 120px;
+}
+
+.neon-box4{
+    width: 500px;
+    height: 200px;
+    position: absolute;
+    left: 56%;
+    top: 120px;
+}
+
+.neon-box5{
+    width: 200px;
+    height: 600px;
+    position: absolute;
+    left: 56%;
+    top: 120px;
+}
+
+.neon-box1:before, .neon-box2:before, .neon-box3:before, .neon-box4:before, .neon-box5:before, .neon-box6:before{
+    content: "";
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    border: 2px solid #fff;
+    opacity: 0;
+    transition: opacity .4s ease-out;
+}
+
+.neon-box1:before {
+    top: 250px;
+    right: 800px;
+    border-radius: 5px;
+    box-shadow: 0 0 5px #fff, 0 0 10px #fff, 0 0 15px #fff, 0 0 20px #468feb, 0 0 35px #468feb, 0 0 40px #468feb, 0 0 50px #468feb;
+    animation: neon-effect 4s linear infinite alternate;
+
+}
+
+.neon-box2:before {
+    top: 285px;
+    left: 637px;
+    border-radius: 5px;
+    box-shadow: 0 0 5px #fff, 0 0 10px #fff, 0 0 15px #fff, 0 0 20px #468feb, 0 0 35px #468feb, 0 0 40px #468feb, 0 0 50px #468feb;
+    animation: neon-effect 4s linear infinite alternate;
+}
+
+.neon-box3:before {
+    left: 170px;
+    border-radius: 5px;
+    box-shadow: 0 0 5px #fff, 0 0 10px #fff, 0 0 15px #fff, 0 0 20px #468feb, 0 0 35px #468feb, 0 0 40px #468feb, 0 0 50px #468feb;
+    animation: neon-effect 4s linear infinite alternate;
+}
+
+.neon-box4:before {
+    top: 175px;
+    left: 20px;
+    border-radius: 5px;
+    box-shadow: 0 0 5px #fff, 0 0 10px #fff, 0 0 15px #fff, 0 0 20px #468feb, 0 0 35px #468feb, 0 0 40px #468feb, 0 0 50px #468feb;
+    animation: neon-effect 4s linear infinite alternate;
+}
+
+.neon-box5:before {
+    top: 1125px;
+    left: 350px;
+    border-radius: 5px;
+    box-shadow: 0 0 5px #fff, 0 0 10px #fff, 0 0 15px #fff, 0 0 20px #468feb, 0 0 35px #468feb, 0 0 40px #468feb, 0 0 50px #468feb;
+    animation: neon-effect 4s linear infinite alternate;
+}
+
+.neon-box6:before {
+    top: 1030px;
+    right: 1000px;
+    border-radius: 5px;
+    box-shadow: 0 0 5px #fff, 0 0 10px #fff, 0 0 15px #fff, 0 0 20px #468feb, 0 0 35px #468feb, 0 0 40px #468feb, 0 0 50px #468feb;
+    animation: neon-effect 4s linear infinite alternate;
+}
+
+.active {
+    background-color: #468feb;
+    color: #fff;
+  }
+@keyframes neon-effect {
+    from {
+        opacity: 0;
+    }
+
+    to {
+        opacity: 1;
+    }
+}

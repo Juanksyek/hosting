@@ -1,0 +1,102 @@
+%!Adobe-FontList 1.23
+%Locale:0x409
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Invalid
+OutlineFileName:/Users/m3g/Desktop/M3G/M3G Prueba Web /Document fonts/AdobeFnt23.lst
+FileLength:1998
+FileModTime:698083892
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Poppins-Black
+FamilyName:Poppins
+StyleName:Black
+MenuName:Poppins Black
+StyleBits:0
+WeightClass:900
+WidthClass:5
+AngleClass:0
+FullName:Poppins Black
+WritingScript:Roman
+OutlineFileName:/Users/m3g/Desktop/M3G/M3G Prueba Web /Document fonts/Poppins-Black.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:151396
+FileModTime:455000400
+NameArray:0,Win,1,Poppins Black
+NameArray:0,Win,16,Poppins
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Poppins-Medium
+FamilyName:Poppins
+StyleName:Medium
+MenuName:Poppins Medium
+StyleBits:0
+WeightClass:500
+WidthClass:5
+AngleClass:0
+FullName:Poppins Medium
+WritingScript:Roman
+OutlineFileName:/Users/m3g/Desktop/M3G/M3G Prueba Web /Document fonts/Poppins-Medium.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:156520
+FileModTime:455000400
+NameArray:0,Win,1,Poppins Medium
+NameArray:0,Win,16,Poppins
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Poppins-Regular
+FamilyName:Poppins
+StyleName:Regular
+MenuName:Poppins
+StyleBits:0
+WeightClass:400
+WidthClass:5
+AngleClass:0
+FullName:Poppins Regular
+WritingScript:Roman
+OutlineFileName:/Users/m3g/Desktop/M3G/M3G Prueba Web /Document fonts/Poppins-Regular.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:158240
+FileModTime:455000400
+NameArray:0,Win,1,Poppins
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Poppins-SemiBold
+FamilyName:Poppins
+StyleName:SemiBold
+MenuName:Poppins SemiBold
+StyleBits:0
+WeightClass:600
+WidthClass:5
+AngleClass:0
+FullName:Poppins SemiBold
+WritingScript:Roman
+OutlineFileName:/Users/m3g/Desktop/M3G/M3G Prueba Web /Document fonts/Poppins-SemiBold.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:155232
+FileModTime:455000400
+NameArray:0,Win,1,Poppins SemiBold
+NameArray:0,Win,16,Poppins
+%EndFont
+
